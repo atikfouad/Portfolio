@@ -19,6 +19,9 @@ const Tab_Data = [
         <li>Redux</li>
         <li>Nextjs</li>
         <li>Express.js</li>
+        <li>Tailwindcss</li>
+        <li>React native</li>
+        <li>Python</li>
       </ul>
     )
   },
@@ -38,12 +41,12 @@ const Tab_Data = [
     id: 'experience',
     content: (
       <ul className="list-disc pl-2">
-        <li>javascript</li>
-        <li>Node.js</li>
-        <li>Reactjs</li>
-        <li>Redux</li>
-        <li>Nextjs</li>
-        <li>Express.js</li>
+        <li>Oracle, Disaster Recovery Admin, Automation, Python, React 2017-2019</li>
+        <li>Trackplan FM, Developer, React, React native, Redux, PWAs 2019-2020</li>
+        <li>Lean Business Services, Senior Developer, React, React native, Nodejs, socket io, Microfrontends, 2020-2022</li>
+        <li>Autobia, Senior Developer, Mobile Lead, React, React native, Nodejs 2022-Present</li>
+        <li> Could be you ??</li>
+      
       </ul>
     )
   }
@@ -67,7 +70,7 @@ export const AboutSection = () => {
   return (
     <section className="text-white">
       <div className="md:grid md:grid-cols-2 gap-8 items-center px-4 py-8 lg:gap-16 sm:py-16 xl:px-16">
-        <Image src="/portfoliopic.jpeg" width={500} height={500} />
+        <Image src="/Aboutme.jpeg" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text=4xl font-bold text-white mb-4">About me</h2>
           <p className="text-base md:text-lg ">Dummy text about me</p>

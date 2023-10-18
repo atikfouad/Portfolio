@@ -8,15 +8,15 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 const navLinks = [
   {
     title: "About",
-    path: "#about",
+    path: "https://portfolio-8l15zyauu-mohammed-fauds-projects.vercel.app/#about",
   },
   {
     title: "Projects",
-    path: "#projects",
+    path: "https://portfolio-8l15zyauu-mohammed-fauds-projects.vercel.app/#projects",
   },
   {
     title: "Contact",
-    path: "#contact",
+    path: "https://portfolio-8l15zyauu-mohammed-fauds-projects.vercel.app/#contact",
   },
 ];
 

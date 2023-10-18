@@ -61,7 +61,7 @@ const EmailSection = () => {
               htmlFor="email"
               className="text-white block mb-2 text-sm font-medium"
             >
-              You&apos;r email
+              Your email
             </label>
             <input
               type="email"
